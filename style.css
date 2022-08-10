@@ -1,8 +1,7 @@
 
 .main {
     margin-top: 60px;
-    text-align: center;
-}
+   }
 .search-box {
     display: block;
     width: 560px;
@@ -27,7 +26,7 @@
 }
 
 .btn-one {
-    margin-top: 33px;
+    margin: 33px 10px; 
     background: #dfe1e5;
     border: none;
     padding-top: 8px;
@@ -38,6 +37,7 @@
     font-size: 14px;
 
 }
-.main .sent {
-    margin-top: 555px;
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
 }
